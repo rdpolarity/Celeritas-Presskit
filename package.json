@@ -1,0 +1,16 @@
+{
+  "name": "celeritas-presskit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "presskit build",
+    "dev": "presskit build --watch"
+  },
+  "keywords": [],
+  "author": "RDPolarity",
+  "license": "ISC",
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
+}
