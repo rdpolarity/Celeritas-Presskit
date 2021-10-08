@@ -218,6 +218,18 @@
     The `<website>` tag is optional.
   -->
   <credits>
+	  <credit>
+		  <person>Liam Harrison</person>
+		  <role>Lead Programmer</role>
+	  </credit>
+	  <credit>
+		  <person>Lachlan Becirovic</person>
+		  <role>Lead Artist</role>
+	  </credit>
+	  <credit>
+		  <person>Sarah van den Bovenkamp</person>
+		  <role>Artist, Programmer</role>
+	  </credit>
         <credit>
 		<person>Aiden Mellor</person>
 		  <role>Artist, Designer, Programmer</role>
@@ -225,30 +237,31 @@
         http://www.sophiapizer.com
       </website>-->
 	  </credit>
+	  <credit>
+		  <person>Tea Russell</person>
+		  <role>Programmer, Artist</role>
+	  </credit>
+	  <credit>
+		  <person>Anthony Tran</person>
+		  <role>Programmer</role>
+	  </credit>
+	  <credit>
+		  <person>Monique Hric</person>
+		  <role>Artist</role>
+	  </credit>
 	<credit>
+		<credit>
+			<person>Judd Harley</person>
+			<role>Composer</role>
+		</credit>
+		<credit>
+			<person>Liam Moore</person>
+			<role>Producer, Programmer</role>
+		</credit>
 		<person>Ebony March</person>
 	    <role>Creative Director, Narrative Director, Community Manager</role>
 	</credit>
-	<credit>
-      <person>Lachlan Becirovic</person>
-      <role>Lead Artist</role>
-    </credit>
-	<credit>
-      <person>Liam Harrison</person>
-      <role>Lead Programmer</role>
-    </credit>
-	<credit>
-	    <person>Liam Moore</person>
-	    <role>Producer, Programmer</role>
-	</credit>  
-    <credit>
-        <person>Sarah van den Bovenkamp</person>
-        <role>Artist, Programmer</role>
-	</credit>
-	<credit>
-		<person>Tea Russell</person>
-		<role>Programmer</role>
-	</credit>
+
   </credits>
 
   <!--
