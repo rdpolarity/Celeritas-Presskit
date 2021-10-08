@@ -231,7 +231,7 @@
 		  <person>Sarah van den Bovenkamp</person>
 		  <role>Artist, Programmer</role>
 	  </credit>
-        <credit>
+      <credit>
 		<person>Aiden Mellor</person>
 		  <role>Artist, Designer, Programmer</role>
 		  <!--<website>
@@ -250,14 +250,14 @@
 		  <person>Monique Hric</person>
 		  <role>Artist</role>
 	  </credit>
-		<credit>
-			<person>Judd Harley</person>
-			<role>Composer</role>
-		</credit>
-		<credit>
-			<person>Liam Moore</person>
-			<role>Producer, Programmer</role>
-		</credit>
+	  <credit>
+		  <person>Judd Harley</person>
+		  <role>Composer</role>
+	  </credit>
+	  <credit>
+		  <person>Liam Moore</person>
+		  <role>Producer, Programmer</role>
+	  </credit>
 		<person>Ebony March</person>
 	    <role>Creative Director, Narrative Director, Community Manager</role>
   </credits>
