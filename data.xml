@@ -34,9 +34,9 @@
   <!-- Begin with your company name, location, and miscellaneous information. -->
   <title>Celeritas</title>
   <based-in>Melbourne, Victoria</based-in>
-  <founding-date>February 6, 2014</founding-date>
+  <founding-date>5th March, 2021</founding-date>
   <website>https://aydie.me</website>
-  <phone>+42 (3) 42 42 42 42 42</phone>
+  <!--<phone>+42 (3) 42 42 42 42 42</phone>-->
 
   <!--
     For the address, use as many lines as you want.
@@ -62,10 +62,6 @@
     <social>
       <name>Facebook Page</name>
       <link>https://facebook.com/Celeritas</link>
-    </social>
-    <social>
-      <name>Skype</name>
-      <link>callto:pizzaburgerstudio</link>
     </social>
   </socials>
 
@@ -106,13 +102,13 @@
   -->
   <histories>
     <history>
-      <header>Built with presskit.html</header>
+      <!--<header>Built with presskit.html</header>-->
       <text>10 students from Swinburne University of Technology and other universities, located in Melbourne, Australia, teamed up to create a game for their final project. After tossing around a few ideas, the concept of Celeritas: Black Horizon was born and quickly grew into a fully fledged game. Originally to be showcased at PAXAUS, one of the biggest gaming conventions in Australia, the complications from the COVID-19 pandemic meant it would be instead displayed to smaller industry showcases in the city of Melbourne. After several iterations of play testing, the game has been sculpted into the exciting, vibrant, and upbeat bullet-hell space shooter that will hopefully give a bit of extra spark to the local world of small studio games production.</text>
     </history>
-    <history>
+	  <!--<history>
       <header>Free and Open Source</header>
       <text>Find presskit.html on https://github.com/pixelnest/presskit.html</text>
-    </history>
+    </history>-->
   </histories>
 
   <!-- ## Trailers -->
@@ -159,6 +155,7 @@
 
     But don't add too much here: this is your company page, not a product one.
   -->
+	<!--
   <awards>
     <award>
       <description>An award</description>
@@ -169,12 +166,13 @@
       <info>Name, location, 03 October, 1988</info>
     </award>
   </awards>
-
+-->
   <!--
     Quotes are used to show the appreciation of your users.
 
     Show something important, something nice, or something funny, for example.
   -->
+	<!--
   <quotes>
     <quote>
       <description>There's not enough pizza in your life. It's never enough.</description>
@@ -185,7 +183,7 @@
       </link>
     </quote>
   </quotes>
-
+-->
   <!--
     Need to link to a resource? A small product? An RSS feed?
 
