@@ -56,8 +56,8 @@
   -->
   <socials>
     <social>
-      <name>Twitter @Celeritas</name>
-      <link>https://twitter.com/Celeritas</link>
+      <name>Twitter @GlitchBugStudios</name>
+      <link>https://twitter.com/GlitchBugStudio</link>
     </social>
     <social>
       <name>Facebook Page</name>
@@ -191,6 +191,7 @@
 
     Put those here, in the `<additionals>` tag.
   -->
+	<!--
   <additionals>
     <additional>
       <title>Patricia Pizza Twitter</title>
@@ -203,7 +204,7 @@
       <link>https://twitter.com/bobburg</link>
     </additional>
   </additionals>
-
+-->
   <!-- ## Team & Contacts -->
 
   <!--
@@ -279,9 +280,10 @@
     <contact>
       <name>Twitter</name>
       <link>
-        https://twitter.com/pizzaburgerstudio
-      </link>
+		  https://twitter.com/GlitchBugStudio
+	  </link>
     </contact>
+	  <!--
     <contact>
       <name>Facebook</name>
       <link>
@@ -294,6 +296,7 @@
         http://pizzaburger.studio
       </link>
     </contact>
+	-->
   </contacts>
 
   <!--
