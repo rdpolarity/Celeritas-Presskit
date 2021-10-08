@@ -218,29 +218,37 @@
     The `<website>` tag is optional.
   -->
   <credits>
-    <credit>
-      <person>Liam Harrison</person>
-      <role>Lead Programmer</role>
-    </credit>
-    <credit>
+        <credit>
+		<person>Aiden Mellor</person>
+		  <role>Artist, Designer, Programmer</role>
+		  <!--<website>
+        http://www.sophiapizer.com
+      </website>-->
+	  </credit>
+	<credit>
+		<person>Ebony March</person>
+	    <role>Creative Director, Narrative Director, Community Manager</role>
+	</credit>
+	<credit>
       <person>Lachlan Becirovic</person>
       <role>Lead Artist</role>
     </credit>
-    <credit>
-      <person>Sarah van den Bovenkamp</person>
-      <role>Artist, Programmer</role>
-	</credit>
-    <credit>
-      <person>Aiden Mellor</person>
-      <role>Artist, Designer, Programmer</role>
-		<!--<website>
-        http://www.sophiapizer.com
-      </website>-->
+	<credit>
+      <person>Liam Harrison</person>
+      <role>Lead Programmer</role>
     </credit>
-	  <credit>
-		  <person>Liam Harrison</person>
-		  <role>Lead Programmer</role>
-	  </credit>
+	<credit>
+	    <person>Liam Moore</person>
+	    <role>Producer, Programmer</role>
+	</credit>  
+    <credit>
+        <person>Sarah van den Bovenkamp</person>
+        <role>Artist, Programmer</role>
+	</credit>
+	<credit>
+		<person>Tea Russell</person>
+		<role>Programmer</role>
+	</credit>
   </credits>
 
   <!--
