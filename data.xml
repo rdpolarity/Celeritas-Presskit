@@ -66,7 +66,7 @@
   </socials>
 
   <!-- This field is the primary mail address you want to give to the press. -->
-  <press-contact>contact @ glitchbugstudio@gmail.com</press-contact>
+  <press-contact>contact @ glitchbugstudios@gmail.com</press-contact>
 
   <!--
     Use this tag to set your Google analytics tracking code.
@@ -234,9 +234,9 @@
       <credit>
 		<person>Aiden Mellor</person>
 		  <role>Artist, Designer, Programmer</role>
-		  <!--<website>
+		  <website>
         https://aydie.me
-      </website>-->
+      </website>
 	  </credit>
 	  <credit>
 		  <person>Tea Russell</person>
@@ -256,7 +256,7 @@
 	  </credit>
 	  <credit>
 		  <person>Liam Moore</person>
-		  <role>Producer, mechanics designer, Programmer</role>
+		  <role>Producer, Mechanics Designer, Programmer</role>
 	  </credit>
 	  <credit>
 		<person>Ebony March</person>
@@ -274,7 +274,7 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>glitchbugstudio@gmail.com</mail>
+      <mail>glitchbugstudios@gmail.com</mail>
     </contact>
     <contact>
       <name>Twitter</name>
