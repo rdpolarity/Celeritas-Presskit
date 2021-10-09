@@ -131,21 +131,23 @@
       <name>Example from YouTube. Don't give a full link: the ID is enough</name>
       <youtube>er416Ad3R1g</youtube>
     </trailer>
+	  <!--
     <trailer>
       <name>Example from both YouTube and Vimeo</name>
       <youtube>YH3c1QZzRK4</youtube>
       <vimeo>108650530</vimeo>
     </trailer>
 
-    <!--
+  
       You can also add a video link without YouTube or Vimeo.
 
       In this case, only a sentence will be shown, along with a download link.
-    -->
+
     <trailer>
       <name>Interview with Damien Mayance and Matthieu Oger of Pixenest Studio</name>
       <download>https://github.com/pixelnest/presskit.html</download>
     </trailer>
+	  -->
   </trailers>
 
   <!-- ## Awards, quotes & links -->
