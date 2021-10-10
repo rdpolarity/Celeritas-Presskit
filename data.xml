@@ -109,6 +109,13 @@
       <header>Free and Open Source</header>
       <text>Find presskit.html on https://github.com/pixelnest/presskit.html</text>
     </history>-->
+	  <h2>Features</h2>
+	  A huge collection of ships and modules create new experiences every run! Will you prioritise damage, speed, or will you drop everything for this strange new power-up that can blow everything to space dust?
+	  Create absolute havoc in limitless ways with a vast possibility of synergies and weapon combos.
+	  Engage in a world where things may not be as they truly seem. What lurks beyond the darkened horizon, and why has it come for you now?
+	  An endless map filled with events means every journey is completely different.
+	  Explore a world where death lurks around every corner. And not just a quick death. A slow, painful, sickly one.
+
   </histories>
 
   <!-- ## Trailers -->
@@ -128,8 +135,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Example from YouTube. Don't give a full link: the ID is enough</name>
-      <youtube>er416Ad3R1g</youtube>
+      <name>Some footage of gameplay for our game</name>
+      <youtube>xsO7x8mHdpo</youtube>
     </trailer>
 	  <!--
     <trailer>
