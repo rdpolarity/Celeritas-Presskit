@@ -104,7 +104,7 @@
     <history>
       <!--<header>Built with presskit.html</header>-->
       <text>10 students from Swinburne University of Technology and other universities, located in Melbourne, Australia, teamed up to create a game for their final project. After tossing around a few ideas, the concept of Celeritas: Black Horizon was born and quickly grew into a fully fledged game. Originally to be showcased at PAXAUS, one of the biggest gaming conventions in Australia, the complications from the COVID-19 pandemic meant it would be instead displayed to smaller industry showcases in the city of Melbourne. After several iterations of play testing, the game has been sculpted into the exciting, vibrant, and upbeat bullet-hell space shooter that will hopefully give a bit of extra spark to the local world of small studio games production.</text>
-    </history>
+    
 	  <!--<history>
       <header>Free and Open Source</header>
       <text>Find presskit.html on https://github.com/pixelnest/presskit.html</text>
@@ -115,7 +115,7 @@
 	  Engage in a world where things may not be as they truly seem. What lurks beyond the darkened horizon, and why has it come for you now?
 	  An endless map filled with events means every journey is completely different.
 	  Explore a world where death lurks around every corner. And not just a quick death. A slow, painful, sickly one.
-
+    </history>
   </histories>
 
   <!-- ## Trailers -->
